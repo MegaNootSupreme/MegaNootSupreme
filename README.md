@@ -1,6 +1,6 @@
 - 👋 Greetings, I’m @MegaNootSupreme or just Noot
 - 👀 I’m interested in Linux based applications which improve and add upon the functionality of existing operating systems.
-- 🌱 I’m currently learning Bash, JavaScript, Python, and Rust in my free time, and Java, C++, and PowerShell scripting through work and school.
+- 🌱 I’m currently learning Bash, JavaScript, Python, and Rust in my free time, and Java, C#, C++, and PowerShell scripting through work and school.
 - 📫 I can be reached via email at meganootsupreme@gmail.com 
 
 <!---
