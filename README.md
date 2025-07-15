@@ -1,6 +1,6 @@
-- 👋 Greetings, I’m @MegaNootSupreme or just Noot
-- 👀 I’m interested in Linux based applications which improve and add upon the functionality of existing operating systems.
-- 🌱 I’m currently learning Bash, JavaScript, and Rust in my free time, and C, C#, C++, and Python scripting through work and school.
+- 👋 Greetings, I'm Nate
+- 👀 I’m interested in UNIX based utility applications.
+- 🌱 I have a foundation in C based languages, am currently learning Rust in my free time, and am very familiar with Python for my work.
 - 📫 I can be reached via email at meganootsupreme@gmail.com 
 
 <!---
